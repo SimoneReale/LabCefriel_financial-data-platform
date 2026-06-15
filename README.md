@@ -12,7 +12,7 @@ A financial institution receives daily transaction data (CSV). Before routing th
 * `docs/`: Architecture diagrams and team planning templates.
 * `.github/workflows/`: CI/CD automation.
 
-## 🚀 How to Build and Run Locally
+## How to Build and Run Locally
 
 ### 1. C++ Engine
 ```bash
